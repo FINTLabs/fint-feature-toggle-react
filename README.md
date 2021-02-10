@@ -28,4 +28,4 @@ else {
 }
 ```
 
-> Boostraped with Created with https://tsdx.io/
+> Created with https://tsdx.io/

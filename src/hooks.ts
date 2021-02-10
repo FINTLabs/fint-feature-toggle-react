@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import FeatureToggleApi from './featureToogleApi';
-import FeatureToggles from "./model";
-import {AxiosResponse} from "axios";
+import FeatureToggles from './model';
+import { AxiosResponse } from 'axios';
 
 const useFeatureEnabled = (feature: string): boolean => {
   const [enabled, setEnabled] = useState<boolean>(false);
