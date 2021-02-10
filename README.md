@@ -1,4 +1,5 @@
 # fint-feature-toggle-react
+![CI](https://github.com/FINTLabs/fint-feature-toggle-react/workflows/CI/badge.svg)
 
 A component to simplify feature toggling in frontend applications at Vigo/FINTLabs.
 
